@@ -90,7 +90,7 @@ public class Main {
             System.out.println("Получателю услуги возрастом  14 лет и более может использовать атракцион без сопровождения взрослых.");
         }
         System.out.println("3/Задача 3");
-        int one = 25000;
+        int one = 25001;
         int two = 3620;
         int three = 2568;
         if (one > two && two > three){
