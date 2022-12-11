@@ -101,6 +101,7 @@ public class Main {
         }else
         if (one < two && two > three){
             System.out.println("число " + two + " наибольшее");
+            //ДЗ закончил
         }
         }
 
